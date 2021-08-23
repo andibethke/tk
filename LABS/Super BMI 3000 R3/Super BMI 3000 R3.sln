@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super BMI 3000 R3", "Super BMI 3000 R3\Super BMI 3000 R3.csproj", "{9D439211-F37C-4106-8298-7EA27C22880B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super BMI 3000 R3Tests", "Super BMI 3000 R3Tests\Super BMI 3000 R3Tests.csproj", "{2B970F10-BC59-4076-83AD-3B5F967877B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D439211-F37C-4106-8298-7EA27C22880B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D439211-F37C-4106-8298-7EA27C22880B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D439211-F37C-4106-8298-7EA27C22880B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D439211-F37C-4106-8298-7EA27C22880B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B970F10-BC59-4076-83AD-3B5F967877B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B970F10-BC59-4076-83AD-3B5F967877B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B970F10-BC59-4076-83AD-3B5F967877B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B970F10-BC59-4076-83AD-3B5F967877B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19884D73-9C13-447F-B396-DD9D9ACAE5EA}
+	EndGlobalSection
+EndGlobal

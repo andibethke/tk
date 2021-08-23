@@ -1,0 +1,40 @@
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\bin\Release\net5.0\appsettings.Development.json
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\bin\Release\net5.0\appsettings.json
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\bin\Release\net5.0\Super BMI 3000 R3.exe
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\bin\Release\net5.0\Super BMI 3000 R3.deps.json
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\bin\Release\net5.0\Super BMI 3000 R3.runtimeconfig.json
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\bin\Release\net5.0\Super BMI 3000 R3.runtimeconfig.dev.json
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\bin\Release\net5.0\Super BMI 3000 R3.dll
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\bin\Release\net5.0\ref\Super BMI 3000 R3.dll
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\bin\Release\net5.0\Super BMI 3000 R3.pdb
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\bin\Release\net5.0\Super BMI 3000 R3.Views.dll
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\bin\Release\net5.0\Super BMI 3000 R3.Views.pdb
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.csproj.AssemblyReference.cache
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.AssemblyInfoInputs.cache
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.AssemblyInfo.cs
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.csproj.CoreCompileInputs.cache
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.MvcApplicationPartsAssemblyInfo.cache
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.RazorAssemblyInfo.cache
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.RazorAssemblyInfo.cs
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\staticwebassets\Super BMI 3000 R3.StaticWebAssets.Manifest.cache
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\staticwebassets\Super BMI 3000 R3.StaticWebAssets.xml
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\scopedcss\bundle\Super BMI 3000 R3.styles.css
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.TagHelpers.input.cache
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.TagHelpers.output.cache
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.RazorCoreGenerate.cache
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.RazorTargetAssemblyInfo.cache
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.RazorTargetAssemblyInfo.cs
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.Views.pdb
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.dll
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\ref\Super BMI 3000 R3.dll
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.pdb
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.genruntimeconfig.cache
+C:\Temp\tk\LABS\Super BMI 3000 R3\Super BMI 3000 R3\obj\Release\net5.0\Super BMI 3000 R3.csproj.CopyComplete

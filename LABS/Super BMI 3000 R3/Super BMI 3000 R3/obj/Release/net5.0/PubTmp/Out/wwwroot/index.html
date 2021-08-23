@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="lib/jquery/dist/jquery.js"></script>
+    <style>
+        .boese{
+            color: red;
+        }
+        .gut {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>Berechne Deinen BMI</h1>
+
+    <div class="form-group">
+        <label>Größe: </label>
+        <input class="form-control" id="gr"/>
+    </div>
+    <div  class="form-group">
+        <label>Gewicht: <span id="g" class="badge badge-danger"></span> </label>
+        <input  class="form-control" id="gew" type="range" min="30" max="150" onchange="berechne()"/>
+    </div>
+    <button class="btn btn-success" onclick="berechne()">Berechne</button>
+    <h3 class="jumbotron" >
+        Dein Bmi ist <span id="ausgabe"></span>
+    </h3>
+
+    <script>
+
+        function berechne() {
+            $.getJSON("/api/person", { gr: $("#gr").val(), gew: $("#gew").val() }, function (data) {
+                $("#ausgabe").html(data.bmi)
+                $("#g").text(data.gewicht)
+                if (data.istOk) {
+                    $("#ausgabe").removeClass("boese");
+                    $("#ausgabe").addClass("gut");
+                }
+                else {
+                    $("#ausgabe").removeClass("gut");
+                    $("#ausgabe").addClass("boese");
+                }
+            });
+
+        }
+    </script>
+</body>
+</html>
