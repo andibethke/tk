@@ -1,7 +1,7 @@
 package de.tk.spiel;
 
 public class DasSpiel {
-	private int zufallsZahl, versuche=0;
+	protected int zufallsZahl, versuche=0;
 	private boolean isEnde, isKleiner;
 	public int getVersuche() {
 		return versuche;
@@ -17,6 +17,10 @@ public class DasSpiel {
 		zufallsZahl = (int) (Math.random()*100)+1;
 	}
 	
+	/**
+	 * Eingabe des Benutzers
+	 * @param zahl
+	 */
 	public void eingabe(int zahl) {
 		isEnde = zahl == zufallsZahl;
 		isKleiner = zufallsZahl<zahl;

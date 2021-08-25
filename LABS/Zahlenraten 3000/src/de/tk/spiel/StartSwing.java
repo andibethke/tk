@@ -16,7 +16,7 @@ public class StartSwing extends JFrame{
 	JLabel lbBild=new JLabel();
 	JLabel lbInfo=new JLabel("Digga...");
 	
-	DasSpiel spiel=new DasSpiel();
+	DasSpiel spiel=new DasSuperSpiel();
 
 	public StartSwing() {
 		getContentPane().setLayout(new BorderLayout());

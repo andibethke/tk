@@ -1,0 +1,24 @@
+<h4>Filmsuche ({{suche}})</h4>
+<div>
+    <input class="form-control" type="text" [(ngModel)]="suche" (keyup)="onChange()">
+</div>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Titel</th>
+            <th>Jahr</th>
+            <th>Typ</th>
+            <th>Poster</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let f of data">
+            <td>{{f.Title}}</td>
+            <td>{{f.Year}}</td>
+            <td>{{f.Type}}</td>
+            <td>
+                <img [src]="f.Poster" width="150" >
+            </td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,8 @@
+.meins{
+    background-color: blueviolet;
+    transition: transform 1s ease-in-out;
+}
+
+.meins:hover{
+    transform: rotate(360deg);
+}
